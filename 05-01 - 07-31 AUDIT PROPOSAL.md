@@ -12,7 +12,7 @@ Wallet Address:
 LZJKWBPPKWNZECBNKUZPMHMFKAVBKOHVHNNRTEIVLAHGOAIOGYSBSQGETNED
 
 Purpose:  
-This proposal requests Community Contribution Fund (CCF) support to design,
+This proposal requests Computor Controlled Fund (CCF) support to design,
 implement, and consolidate a standardized audit and financial reporting
 framework for the Qubic ecosystem over a three‑month period.
 
@@ -139,8 +139,8 @@ funding submission in accordance with governance procedures.
 ## Review & Governance Alignment
 
 - This proposal has been reviewed with Workgroup Leads, and the author has been
-  selected as the candidate to submit this engagement to the Community
-  Contribution Fund (CCF).
+  selected as the candidate to submit this engagement to the Computor Controlled
+   Fund (CCF).
 - The proposal has also been shared with the Strategic Board prior to submission
   for awareness and alignment with broader governance and oversight objectives.
 
