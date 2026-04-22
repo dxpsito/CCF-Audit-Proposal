@@ -6,7 +6,7 @@ Term: May 1, 2026 – July 31, 2026 (3 months
 Submitted by: David Exposito – Audit & Financial Reporting
 
 Total Requested: USD 8,600 equivalent  
-Requested Amount: approximately 11.03 billion QUBIC  
+Requested Amount: approximately 11.11 billion QUBIC
 
 Wallet Address:  
 LZJKWBPPKWNZECBNKUZPMHMFKAVBKOHVHNNRTEIVLAHGOAIOGYSBSQGETNED
@@ -24,8 +24,8 @@ framework for the Qubic ecosystem over a three‑month period.
 |------|-------------|
 | Total Requested | USD 8,600 equivalent |
 | Duration | Three months |
-| Valuation Reference | Approx. USD 780 per billion QUBIC |
-| Requested Amount | ~11.03 billion QUBIC |
+| Valuation Reference | USD 774 per billion QUBIC |
+| Requested Amount | ~11.11 billion QUBIC |
 | Includes | Audit framework design, Workgroup and Projects financial reporting, expense traceability review, community-level reporting, and consolidation |
 
 This proposal establishes a structured audit and reporting function to increase
@@ -110,10 +110,10 @@ structures.
 ### QUBIC Valuation
 
 - Reference valuation at time of submission:  
-  approximately USD 780 per billion QUBIC
+  approximately USD 774 per billion QUBIC
 
 - Total requested:  
-  USD 8,600 / 780 ≈ **11.03 billion QUBIC**
+  USD 8,600 / 774 ≈ **11.11 billion QUBIC**
 
 ---
 
@@ -150,6 +150,6 @@ funding submission in accordance with governance procedures.
 
 Option 0: No, do not approve this proposal.
 
-Option 1: Yes, approve the funding of approximately **11.03 billion QUBIC**
+Option 1: Yes, approve the funding of approximately **11.11 billion QUBIC**
 to support the 3‑month Audit & Financial Reporting engagement as described in
 this proposal.
