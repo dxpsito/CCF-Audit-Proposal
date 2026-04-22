@@ -1,36 +1,28 @@
-QUBIC AUDIT & FINANCIAL REPORTING
-CCF FUNDING PROPOSAL
+**QUBIC AUDIT & FINANCIAL REPORTING**
+**CCF FUNDING PROPOSAL**
 
-Term: May 1, 2026 – July 31, 2026 (3 months
+**Term**: May 1, 2026 – July 31, 2026 3 months 
 
-Submitted by: David Exposito – Audit & Financial Reporting
+**Submitted by**: David Exposito – Audit & Financial Reporting
 
-Total Requested: USD 8,600 equivalent  
-Requested Amount: approximately 11.11 billion QUBIC
+**Total Requested**: USD 8,600 equivalent  
+Requested **Qubic** Amount: **11.040.000.000 QUBIC**
 
-Wallet Address:  
+**Wallet Address**:  
 LZJKWBPPKWNZECBNKUZPMHMFKAVBKOHVHNNRTEIVLAHGOAIOGYSBSQGETNED
 
-Purpose:  
+  
 This proposal requests Computor Controlled Fund (CCF) support to design,
 implement, and consolidate a standardized audit and financial reporting
 framework for the Qubic ecosystem over a three‑month period.
 
 ---
 
-## Funding Request Summary
+## Voting Options
 
-| Item | Description |
-|------|-------------|
-| Total Requested | USD 8,600 equivalent |
-| Duration | Three months |
-| Valuation Reference | USD 774 per billion QUBIC |
-| Requested Amount | ~11.11 billion QUBIC |
-| Includes | Audit framework design, Workgroup and Projects financial reporting, expense traceability review, community-level reporting, and consolidation |
+Option 0: No, do not approve this proposal.
 
-This proposal establishes a structured audit and reporting function to increase
-financial transparency, accountability, and governance visibility across the
-Qubic ecosystem.
+Option 1: Yes, approve this proposal.
 
 ---
 
@@ -50,15 +42,17 @@ This engagement is designed to create a sustainable audit and financial
 reporting framework that supports informed decision-making and long-term
 ecosystem accountability.
 
+
 ---
 
-## Scope & Work Model Overview
+
+## Scope & Roadmap
 
 The audit engagement is structured around three core reporting outputs:
 
 - Workgroup Audit Report – Computor Level  
 - Workgroup Audit Report – Community Level (anonymized and standardized)  
-- Projects Audit Report – Cross‑Workgroup  
+- Projects Audit Report – Cross‑Workgroup (all levels)
 
 ### Month 1 – Definition & Design
 - Alignment meetings with Workgroup leads to understand:
@@ -68,30 +62,32 @@ The audit engagement is structured around three core reporting outputs:
 - Definition of:
   - Reporting structure and format
   - Required data and level of detail
-  - Roles, responsibilities, and timelines
+  - Roles, responsibilities, and timelines of each group
+- Delivery of a preliminary version of the Workgroup report for review by WGs to:
+  - Validate structure and content
+  - Incorporate feedback and required adjustments
 
 ### Month 2 – Stabilization
-- Monthly update of Workgroup reports with live data
+- Monthly update of the Workgroup reports with live data
 - Design and implementation of the Projects Audit Report
 - Definition of procedures for off‑chain expense submission and justification
 - Review of expense traceability and supporting documentation
-- Analysis of projects approved during the last six months
+- Analysis of projects approved during the last six months to:
+  - Identify the frequency and value of approved projects
+- Final version of a Projects Audit Report to be reviewed and validated
 
 ### Month 3 – Consolidation
+- Delivery of a final version of **all audit reports**
 - Ongoing updates to all reports
 - Consistency and quality review of reported information
-- Feedback and refinement sessions with relevant teams
+- Feedback and refinement sessions with relevant teams to:
+  - Address questions
+  - Propose improvements
+  - Adjust the level of detail if necessary
+
 
 ---
 
-## Roadmap
-
-- Public discussion and review  
-- Refinement based on feedback  
-- Submission for vote to Computors  
-- Execution period: three months from approval  
-
----
 
 ## Pricing Model & QUBIC Calculation
 
@@ -109,11 +105,23 @@ structures.
 
 ### QUBIC Valuation
 
+| Item | Description |
+|------|-------------|
+| Total Requested | USD 8,600 equivalent |
+| Duration | Three months |
+| Valuation Reference | USD 779 per billion QUBIC - **0,000000779 USD per QUBIC**|
+| Requested Amount | ~11.04 billion QUBIC |
+| Includes | Audit framework design, Workgroup and Projects financial reporting, expense traceability review, community-level reporting, and consolidation |
+
+This proposal establishes a structured audit and reporting function to enhance
+financial transparency, accountability, and governance visibility across the
+Qubic ecosystem.
+
 - Reference valuation at time of submission:  
-  approximately USD 774 per billion QUBIC
+  approximately USD 779 per billion QUBIC
 
 - Total requested:  
-  USD 8,600 / 774 ≈ **11.11 billion QUBIC**
+ USD 8,600 ÷ 779 ≈ **11.04 billion QUBIC**
 
 ---
 
@@ -122,17 +130,16 @@ structures.
 This proposal is intentionally structured so that **Month 3 reflects the
 steady‑state operating cost** of the audit and reporting function.
 
-If, following the initial three‑month engagement, the quality and usefulness of
-the deliverables is positively evaluated, it is expected that the audit process
+If, following the initial three-month engagement, the quality and usefulness of the deliverables are positively evaluated, the audit process 
 may continue as a **recurring monthly service**.
 
 - Recurring flat rate: **USD 2,000 per month**
 
-This flat rate reflects the reduced effort once the framework is fully
+This flat rate reflects the reduced level of effort once the framework is fully
 implemented and stabilized.
 
 Any renewal would be subject to formal approval and, if required, a separate
-funding submission in accordance with governance procedures.
+funding proposal in accordance with governance procedures.
 
 ---
 
@@ -140,16 +147,10 @@ funding submission in accordance with governance procedures.
 
 - This proposal has been reviewed with Workgroup Leads, and the author has been
   selected as the candidate to submit this engagement to the Computor Controlled
-   Fund (CCF).
+  Fund (CCF).
 - The proposal has also been shared with the Strategic Board prior to submission
   for awareness and alignment with broader governance and oversight objectives.
 
 ---
 
-## Voting Options
 
-Option 0: No, do not approve this proposal.
-
-Option 1: Yes, approve the funding of approximately **11.11 billion QUBIC**
-to support the 3‑month Audit & Financial Reporting engagement as described in
-this proposal.
