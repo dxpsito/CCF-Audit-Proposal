@@ -6,7 +6,7 @@
 **Submitted by**: David Exposito – Audit & Financial Reporting
 
 **Total Requested**: USD 8,600 equivalent  
-Requested **Qubic** Amount: **11.040.000.000 QUBIC**
+Requested **Qubic** Amount: **11.500.000.000 QUBIC**
 
 **Wallet Address**:  
 LZJKWBPPKWNZECBNKUZPMHMFKAVBKOHVHNNRTEIVLAHGOAIOGYSBSQGETNED
@@ -109,8 +109,8 @@ structures.
 |------|-------------|
 | Total Requested | USD 8,600 equivalent |
 | Duration | Three months |
-| Valuation Reference | USD 779 per billion QUBIC - **0,000000779 USD per QUBIC**|
-| Requested Amount | ~11.04 billion QUBIC |
+| Valuation Reference | USD 748 per billion QUBIC - **0,000000748 USD per QUBIC**|
+| Requested Amount | ~11.50 billion QUBIC |
 | Includes | Audit framework design, Workgroup and Projects financial reporting, expense traceability review, community-level reporting, and consolidation |
 
 This proposal establishes a structured audit and reporting function to enhance
@@ -118,10 +118,10 @@ financial transparency, accountability, and governance visibility across the
 Qubic ecosystem.
 
 - Reference valuation at time of submission:  
-  approximately USD 779 per billion QUBIC
+  approximately USD 748 per billion QUBIC
 
 - Total requested:  
- USD 8,600 ÷ 779 ≈ **11.04 billion QUBIC**
+ USD 8,600 ÷ 748 ≈ **11.50 billion QUBIC**
 
 ---
 
